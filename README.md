@@ -7,3 +7,6 @@
 - despicable me
 - iron man 
 - jurrasic park
+- Tron
+- iron man 
+- jurrasic park
